@@ -1,0 +1,17 @@
+body {
+ font-family: Arial, sans-serif; 
+}
+
+.container {
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 6px 12px;
+  margin-right: 10px;
+  cursor: pointer;
+}
